@@ -1,0 +1,18 @@
+color desert
+
+syntax enable
+
+set number
+set showcmd
+set showmatch
+
+set incsearch
+set hlsearch
+
+nnoremap <leader><space> :nohlsearch<CR>
+
+inoremap jj <esc>
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
