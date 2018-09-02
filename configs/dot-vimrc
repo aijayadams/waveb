@@ -1,6 +1,6 @@
-color desert
+colorscheme elflord
 
-syntax enable
+syntax on
 
 set number
 set showcmd
